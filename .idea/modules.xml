@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Anymtic.iml" filepath="$PROJECT_DIR$/Anymtic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Anymatic.iml" filepath="$PROJECT_DIR$/Anymatic.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
